@@ -60,6 +60,16 @@ The system was validated across 135 dealer datasets and is demonstrated here usi
 
 ---
 
+## Results
+
+- Processed 135+ dealer-level datasets
+- Generated 135 automated health-check reports
+- Achieved 0 processing failures in validation runs
+- Successfully handled:
+  - Missing CTA detection
+  - Data normalization inconsistencies
+  - Screenshot prioritization logic
+
 ## Installation
 
 ```bash
